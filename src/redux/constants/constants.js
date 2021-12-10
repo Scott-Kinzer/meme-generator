@@ -1,0 +1,1 @@
+export const LOAD_MEME = 'LOAD_MEME';
